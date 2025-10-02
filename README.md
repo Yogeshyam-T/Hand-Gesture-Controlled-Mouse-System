@@ -8,6 +8,6 @@ Features:
 - Smooth movement (no shaky cursor)  
 ---
 Install dependencies
-pip install opencv-python
-pip install mediapipe 
-pip install pyautogui
+- pip install opencv-python
+- pip install mediapipe 
+- pip install pyautogui
